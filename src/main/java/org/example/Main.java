@@ -3,6 +3,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world，max!");
+        System.out.println("Hello world，max1!");
     }
 }
